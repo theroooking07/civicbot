@@ -169,9 +169,9 @@ def relevant_entities(question: str, hits: list[dict], max_rows: int = 8) -> pd.
     for h in hits:
         text_by_url.setdefault(h["url"], []).append(" ".join(h["text"].split()))
     rows = ents[ents.url.isin(text_by_url) & ents.entity_type.isin(wanted)].copy()
-    in_chunk = [any(" ".join(str(c).split())[:80] in t for t in text_by_url[u])
-                for u, c in zip(rows.url, rows.context)]
-    rows = rows[in_chunk]
+    in_chunk = pd.Series([any(" ".join(str(c).split())[:80] in t for t in text_by_url[u])
+                          for u, c in zip(rows.url, rows.context)], index=rows.index, dtype=bool)
+    rows = rows[in_chunk]   # a boolean Series, so an empty result still keeps its columns
     # Rank by word overlap between the question and the entity's sentence, so
     # "band D" puts the Band D row of the council tax table first.
     q_tokens = set(bm25_tokens(question))

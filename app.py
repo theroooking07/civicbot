@@ -424,7 +424,7 @@ with tabs[4]:
         if "history" not in st.session_state:
             st.session_state.history = []
         examples = ["What time do I put my bins out?", "How much is council tax for Band D?",
-                    "How much does a burial cost?", "What is the council's phone number?"]
+                    "How much does a burial cost?", "When is the deadline to register my rental property?"]
         cols = st.columns(len(examples))
         clicked = next((q for c, q in zip(cols, examples) if c.button(q, width="stretch")), None)
         for q, res in st.session_state.history:
