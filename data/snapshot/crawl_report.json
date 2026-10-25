@@ -1,0 +1,107 @@
+{
+  "finished_reason": "page cap reached",
+  "base_url": "https://www.cambridge.gov.uk/",
+  "max_pages": 300,
+  "max_depth": 3,
+  "download_delay_s": 2.0,
+  "pages_fetched": 300,
+  "pages_saved": 300,
+  "skipped_by_robots": 0,
+  "offsite_redirects_dropped": 11,
+  "skipped": {
+    "excluded_pattern": 891,
+    "non_html": 1,
+    "redirected_out_of_scope": 6
+  },
+  "errors": 9,
+  "error_list": [
+    {
+      "url": "https://www.greatercambridgewaste.org/recycling-and-bins/reducing-waste/refill-shops/",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.greatercambridgewaste.org/recycling-and-bins/recycling/plastic-recycling/",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.greatercambridgewaste.org/what-goes-in-which-bin/water-filters",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.greatercambridgewaste.org/what-goes-in-which-bin/small-electrical-items",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.greatercambridgewaste.org/bins/find-your-household-bin-collection-day/",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.greatercambridgewaste.org/%7BlocalLink:umb:/document/4827a6a2e66c4fafaae158ef02b129b1%7D",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.greatercambridgewaste.org/how-to-reduce-waste/how-to-reduce-waste/re-usable-personal-care-products",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.greatercambridgewaste.org/street-cleansing",
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/redirect/what%20are%20your%20bins%20for?+%5Bwaste+website%5D=",
+      "reason": "HTTP 404"
+    }
+  ],
+  "pdf_links": 229,
+  "document_links": 254,
+  "average_depth": 1.49,
+  "duration_s": 569.6,
+  "top10_most_linked": [
+    {
+      "url": "https://www.cambridge.gov.uk/",
+      "in_links": 897
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/residents",
+      "in_links": 699
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/business",
+      "in_links": 675
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/council",
+      "in_links": 640
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/visitors",
+      "in_links": 618
+    },
+    {
+      "url": "https://www.greatercambridgewaste.org/",
+      "in_links": 522
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z",
+      "in_links": 427
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/news",
+      "in_links": 405
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/online-accounts",
+      "in_links": 404
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/alerts",
+      "in_links": 403
+    }
+  ],
+  "http_status_counts": {
+    "200": 308,
+    "404": 10,
+    "302": 83,
+    "301": 6
+  }
+}

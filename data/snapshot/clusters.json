@@ -1,0 +1,125 @@
+{
+  "k": 4,
+  "content_pages": 213,
+  "hub_pages": 87,
+  "silhouette_scores": {
+    "3": 0.0642,
+    "4": 0.0684,
+    "5": 0.065,
+    "6": 0.0591,
+    "7": 0.0628,
+    "8": 0.0653
+  },
+  "clusters": [
+    {
+      "id": 0,
+      "name": "Waste & recycling",
+      "size": 58,
+      "top_terms": [
+        "waste",
+        "bin",
+        "collection",
+        "food",
+        "recycling",
+        "recycle",
+        "collect",
+        "green"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Taxi licensing",
+      "size": 24,
+      "top_terms": [
+        "licence",
+        "taxi",
+        "driver",
+        "licensing",
+        "vehicle",
+        "hire",
+        "must",
+        "proprietor"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Council tax + Licences & permits",
+      "size": 55,
+      "top_terms": [
+        "tax",
+        "licence",
+        "premise",
+        "must",
+        "pay",
+        "application",
+        "apply",
+        "notice"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Housing",
+      "size": 76,
+      "top_terms": [
+        "property",
+        "work",
+        "support",
+        "housing",
+        "home",
+        "local",
+        "year",
+        "people"
+      ]
+    }
+  ],
+  "topic_similarity": {
+    "bereavement": {
+      "Waste & recycling": 0.02,
+      "Taxi licensing": 0.006,
+      "Council tax + Licences & permits": 0.023,
+      "Housing": 0.064
+    },
+    "contact": {
+      "Waste & recycling": 0.031,
+      "Taxi licensing": 0.069,
+      "Council tax + Licences & permits": 0.059,
+      "Housing": 0.081
+    },
+    "council_tax": {
+      "Waste & recycling": 0.102,
+      "Taxi licensing": 0.065,
+      "Council tax + Licences & permits": 0.218,
+      "Housing": 0.162
+    },
+    "housing": {
+      "Waste & recycling": 0.072,
+      "Taxi licensing": 0.019,
+      "Council tax + Licences & permits": 0.051,
+      "Housing": 0.1
+    },
+    "licensing": {
+      "Waste & recycling": 0.097,
+      "Taxi licensing": 0.111,
+      "Council tax + Licences & permits": 0.17,
+      "Housing": 0.107
+    },
+    "parking_transport": {
+      "Waste & recycling": 0.069,
+      "Taxi licensing": 0.006,
+      "Council tax + Licences & permits": 0.08,
+      "Housing": 0.067
+    },
+    "taxi_licensing": {
+      "Waste & recycling": 0.004,
+      "Taxi licensing": 0.403,
+      "Council tax + Licences & permits": 0.109,
+      "Housing": 0.054
+    },
+    "waste": {
+      "Waste & recycling": 0.488,
+      "Taxi licensing": 0.044,
+      "Council tax + Licences & permits": 0.089,
+      "Housing": 0.123
+    }
+  }
+}

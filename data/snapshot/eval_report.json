@@ -1,0 +1,80 @@
+{
+  "n_questions": 30,
+  "recall@1": 0.767,
+  "recall@3": 0.9,
+  "recall@5": 0.9,
+  "mrr": 0.828,
+  "per_topic_recall@3": {
+    "bereavement": 1.0,
+    "contact": 1.0,
+    "council_tax": 1.0,
+    "housing": 1.0,
+    "licensing": 1.0,
+    "parking_transport": 1.0,
+    "taxi_licensing": 0.5,
+    "waste": 0.889
+  },
+  "threshold": 0.5,
+  "in_scope_answered": 30,
+  "in_scope_min_confidence": 0.54,
+  "off_topic": [
+    {
+      "question": "What is the capital of France?",
+      "confidence": 0.129,
+      "refused": true
+    },
+    {
+      "question": "How do I renew my UK passport?",
+      "confidence": 0.456,
+      "refused": true
+    },
+    {
+      "question": "What's the weather in Cambridge tomorrow?",
+      "confidence": 0.462,
+      "refused": true
+    },
+    {
+      "question": "Which Premier League team won last season?",
+      "confidence": 0.174,
+      "refused": true
+    },
+    {
+      "question": "How do I apply for a birth certificate?",
+      "confidence": 0.312,
+      "refused": true
+    },
+    {
+      "question": "What is the best pizza restaurant near me?",
+      "confidence": 0.248,
+      "refused": true
+    },
+    {
+      "question": "How do I reset my iPhone?",
+      "confidence": 0.103,
+      "refused": true
+    },
+    {
+      "question": "When is the next train to London?",
+      "confidence": 0.465,
+      "refused": true
+    }
+  ],
+  "off_topic_refused": 8,
+  "misses": [
+    {
+      "id": 10,
+      "question": "How do I find out which day my bins are collected?",
+      "top3": "litter-and-issues-with-litter-bins | manage-your-bin-collections | what-are-your-bins-for"
+    },
+    {
+      "id": 17,
+      "question": "How do I apply for a new taxi driver licence?",
+      "top3": "taxi-drivers-licence-renewals | new-non-driver-taxi-proprietors-licences | replacement-taxi-driver-licences-and-badges"
+    },
+    {
+      "id": 18,
+      "question": "What are the fees for taxi licences?",
+      "top3": "temporary-taxi-vehicle-licences | new-taxi-vehicle-licences | new-taxi-drivers-licences"
+    }
+  ]
+}

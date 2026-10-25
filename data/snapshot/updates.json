@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-10-25T08:35:03+00:00",
+  "current_crawl": "2026-10-25T06:42:16+00:00",
+  "baseline_crawl": null,
+  "first_run": true,
+  "new": [],
+  "changed": [],
+  "removed": [],
+  "unchanged": 0,
+  "message": "No baseline yet - this is the first crawl. Run  python make_snapshot.py  to save it; the next crawl will be compared against it."
+}

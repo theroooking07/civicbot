@@ -1,0 +1,347 @@
+{
+  "nodes": 300,
+  "edges_full": 8127,
+  "edges_content": 1317,
+  "template_targets": [
+    "https://www.cambridge.gov.uk/",
+    "https://www.cambridge.gov.uk/contact-us",
+    "https://www.cambridge.gov.uk/data-protection-and-freedom-of-information",
+    "https://www.cambridge.gov.uk/privacy-notice",
+    "https://www.cambridge.gov.uk/services-a-to-z",
+    "https://www.greatercambridgewaste.org/",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=A",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=B",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=C",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=D",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=E",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=F",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=G",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=H",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=I",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=J",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=K",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=L",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=M",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=N",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=O",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=P",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=Q",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=R",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=S",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=T",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=U",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=V",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=W",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=X",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=Y",
+    "https://www.greatercambridgewaste.org/a-to-z?letter=Z",
+    "https://www.greatercambridgewaste.org/accessibility",
+    "https://www.greatercambridgewaste.org/bartec-collective-self-service-portal",
+    "https://www.greatercambridgewaste.org/careers",
+    "https://www.greatercambridgewaste.org/clinical-and-hygiene-waste",
+    "https://www.greatercambridgewaste.org/commercial",
+    "https://www.greatercambridgewaste.org/commercial/what-goes-in-which-bin",
+    "https://www.greatercambridgewaste.org/contact-us",
+    "https://www.greatercambridgewaste.org/cookies",
+    "https://www.greatercambridgewaste.org/developers-and-managing-agents",
+    "https://www.greatercambridgewaste.org/fair-use-policy",
+    "https://www.greatercambridgewaste.org/find-your-bin-collection-day",
+    "https://www.greatercambridgewaste.org/food-waste",
+    "https://www.greatercambridgewaste.org/get-a-quote",
+    "https://www.greatercambridgewaste.org/get-help-putting-your-bin-out",
+    "https://www.greatercambridgewaste.org/how-to-reduce-waste",
+    "https://www.greatercambridgewaste.org/litter-in-public-spaces",
+    "https://www.greatercambridgewaste.org/manage-your-bin-collections",
+    "https://www.greatercambridgewaste.org/new-waste-separation-requirements-from-march-2027",
+    "https://www.greatercambridgewaste.org/news",
+    "https://www.greatercambridgewaste.org/order-commercial-waste-sacks",
+    "https://www.greatercambridgewaste.org/our-policies-and-strategies",
+    "https://www.greatercambridgewaste.org/privacy-notice",
+    "https://www.greatercambridgewaste.org/recycling",
+    "https://www.greatercambridgewaste.org/residents/what-goes-in-which-bin",
+    "https://www.greatercambridgewaste.org/terms-and-conditions",
+    "https://www.greatercambridgewaste.org/waste-collection-at-events",
+    "https://www.greatercambridgewaste.org/waste-collections-for-flats",
+    "https://www.greatercambridgewaste.org/what-are-your-bins-for",
+    "https://www.greatercambridgewaste.org/what-happens-to-your-recycling-and-waste",
+    "https://www.greatercambridgewaste.org/why-choose-us",
+    "https://www.greatercambridgewaste.org/your-business-waste-responsibilities"
+  ],
+  "top_pagerank_full": [
+    {
+      "url": "https://www.cambridge.gov.uk/",
+      "full_pagerank": 0.0845
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z",
+      "full_pagerank": 0.0578
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/contact-us",
+      "full_pagerank": 0.0394
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/privacy-notice",
+      "full_pagerank": 0.0282
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/data-protection-and-freedom-of-information",
+      "full_pagerank": 0.0277
+    },
+    {
+      "url": "https://www.greatercambridgewaste.org/",
+      "full_pagerank": 0.0187
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=L",
+      "full_pagerank": 0.009
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=H",
+      "full_pagerank": 0.009
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=C",
+      "full_pagerank": 0.009
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=P",
+      "full_pagerank": 0.009
+    }
+  ],
+  "top_pagerank_content": [
+    {
+      "url": "https://www.cambridge.gov.uk/licences-and-permits",
+      "content_pagerank": 0.076
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/housing",
+      "content_pagerank": 0.0414
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/council-tax",
+      "content_pagerank": 0.0335
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/customer-services",
+      "content_pagerank": 0.028
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/taxi-licensing",
+      "content_pagerank": 0.0207
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/pollution-noise-and-nuisance",
+      "content_pagerank": 0.0131
+    },
+    {
+      "url": "https://www.greatercambridgewaste.org/how-to-reduce-waste/re-usable-personal-care-products/discounted-mooncup-for-5",
+      "content_pagerank": 0.0122
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/vehicle-services-mots-and-repairs",
+      "content_pagerank": 0.0122
+    },
+    {
+      "url": "https://www.greatercambridgewaste.org/commercial/your-business-waste-responsibilities/manage-your-business-waste",
+      "content_pagerank": 0.0118
+    },
+    {
+      "url": "https://www.greatercambridgewaste.org/commercial/your-business-waste-responsibilities/duty-of-carewaste-transfer-notice",
+      "content_pagerank": 0.0118
+    }
+  ],
+  "top_in_degree_content": [
+    {
+      "url": "https://www.cambridge.gov.uk/licences-and-permits",
+      "content_in_degree": 59.0
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/housing",
+      "content_in_degree": 37.0
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/taxi-licensing",
+      "content_in_degree": 31.0
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=D",
+      "content_in_degree": 27.0
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=C",
+      "content_in_degree": 27.0
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=B",
+      "content_in_degree": 27.0
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=E",
+      "content_in_degree": 27.0
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=T",
+      "content_in_degree": 27.0
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=A",
+      "content_in_degree": 27.0
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=Y",
+      "content_in_degree": 27.0
+    }
+  ],
+  "top_hubs_content": [
+    {
+      "url": "https://www.cambridge.gov.uk/",
+      "content_hub_score": 0.0376
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z",
+      "content_hub_score": 0.0361
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=L",
+      "content_hub_score": 0.0355
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=H",
+      "content_hub_score": 0.0354
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=C",
+      "content_hub_score": 0.0352
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=B",
+      "content_hub_score": 0.035
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=P",
+      "content_hub_score": 0.035
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=T",
+      "content_hub_score": 0.0348
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=S",
+      "content_hub_score": 0.0348
+    },
+    {
+      "url": "https://www.cambridge.gov.uk/services-a-to-z?letter=E",
+      "content_hub_score": 0.0348
+    }
+  ],
+  "communities": [
+    {
+      "size": 62,
+      "example_pages": [
+        "cambridge.gov.uk/access-licences",
+        "cambridge.gov.uk/alcohol-and-entertainment-licence-fees",
+        "cambridge.gov.uk/alcohol-and-entertainment-licence-guidance",
+        "cambridge.gov.uk/animal-licences",
+        "cambridge.gov.uk/changes-of-non-driver-taxi-proprietors-details",
+        "cambridge.gov.uk/changes-of-private-hire-taxi-operators-details"
+      ]
+    },
+    {
+      "size": 53,
+      "example_pages": [
+        "cambridge.gov.uk/accumulated-waste-in-gardens-or-on-private-land",
+        "cambridge.gov.uk/bins-recycling-and-rubbish",
+        "cambridge.gov.uk/information-for-students",
+        "cambridge.gov.uk/litter-and-issues-with-litter-bins",
+        "cambridge.gov.uk/reducing-your-waste",
+        "cambridge.gov.uk/responsibilities-of-other-organisations"
+      ]
+    },
+    {
+      "size": 41,
+      "example_pages": [
+        "cambridge.gov.uk/abbey-youth-cabin",
+        "cambridge.gov.uk/antisocial-behaviour",
+        "cambridge.gov.uk/building-control",
+        "cambridge.gov.uk/busking-and-the-street-performers-code-of-practice",
+        "cambridge.gov.uk/cabinet-members",
+        "cambridge.gov.uk/cambridge-civic-quarter-scrutiny-committee-and-cabinet-reports"
+      ]
+    },
+    {
+      "size": 37,
+      "example_pages": [
+        "cambridge.gov.uk/alterations-to-your-leasehold-property",
+        "cambridge.gov.uk/building-council-houses",
+        "cambridge.gov.uk/building-council-houses-the-numbers",
+        "cambridge.gov.uk/building-insurance-at-your-leasehold-property",
+        "cambridge.gov.uk/buying-a-leasehold-property",
+        "cambridge.gov.uk/council-tenants"
+      ]
+    },
+    {
+      "size": 26,
+      "example_pages": [
+        "cambridge.gov.uk",
+        "cambridge.gov.uk/arranging-a-funeral-service",
+        "cambridge.gov.uk/benefits",
+        "cambridge.gov.uk/bereavement-fees-and-charges",
+        "cambridge.gov.uk/bereavement-services",
+        "cambridge.gov.uk/council-tax"
+      ]
+    },
+    {
+      "size": 23,
+      "example_pages": [
+        "cambridge.gov.uk/car-parks-privacy-notice",
+        "cambridge.gov.uk/commercial-vehicle-services",
+        "cambridge.gov.uk/compliments-complaints-and-suggestions",
+        "cambridge.gov.uk/contact-us",
+        "cambridge.gov.uk/continuous-recording-core-data-privacy-notice",
+        "cambridge.gov.uk/council-offices"
+      ]
+    },
+    {
+      "size": 12,
+      "example_pages": [
+        "greatercambridgewaste.org/news",
+        "greatercambridgewaste.org/news/changes-to-bin-collections-this-christmas",
+        "greatercambridgewaste.org/news/community-festival-in-rampton-highlights-no-waste-pumpkin-cuisine",
+        "greatercambridgewaste.org/news/easter-bank-holiday-bin-collection-changes",
+        "greatercambridgewaste.org/news/greater-cambridge-councils-set-out-arrangements-for-new-weekly-food-waste-collections",
+        "greatercambridgewaste.org/news/groundbreaking-for-renewable-energy-scheme-to-future-proof-bin-collections"
+      ]
+    },
+    {
+      "size": 5,
+      "example_pages": [
+        "greatercambridgewaste.org/a-to-z?letter=E",
+        "greatercambridgewaste.org/a-to-z?letter=O",
+        "greatercambridgewaste.org/careers",
+        "greatercambridgewaste.org/employee-benefits-and-entitlements",
+        "greatercambridgewaste.org/our-core-values"
+      ]
+    },
+    {
+      "size": 5,
+      "example_pages": [
+        "greatercambridgewaste.org/a-to-z?letter=M",
+        "greatercambridgewaste.org/commercial/your-business-waste-responsibilities/duty-of-carewaste-transfer-notice",
+        "greatercambridgewaste.org/commercial/your-business-waste-responsibilities/manage-your-business-waste",
+        "greatercambridgewaste.org/fair-use-policy",
+        "greatercambridgewaste.org/your-business-waste-responsibilities"
+      ]
+    }
+  ],
+  "finding_full_graph": {
+    "linked_pairs": 2064,
+    "same_cluster": 1267,
+    "percent_same_cluster": 61.4
+  },
+  "finding_content_graph": {
+    "linked_pairs": 155,
+    "same_cluster": 127,
+    "percent_same_cluster": 81.9
+  }
+}

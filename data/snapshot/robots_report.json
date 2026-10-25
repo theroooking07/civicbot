@@ -1,0 +1,39 @@
+{
+  "checked_at": "2026-10-25T06:35:19.054501+00:00",
+  "user_agent": "CivicBot-StudentProject/0.1 (+university web-mining coursework; contact: your-team-email@example.com)",
+  "domains": [
+    {
+      "domain": "www.cambridge.gov.uk",
+      "robots_url": "https://www.cambridge.gov.uk/robots.txt",
+      "http_status": 200,
+      "seed_results": {
+        "/": true,
+        "/council-tax": true,
+        "/services-a-to-z": true,
+        "/licences-and-permits": true,
+        "/planning-and-building-control": true,
+        "/housing": true,
+        "/contact-us": true
+      },
+      "crawl_delay_from_robots": null,
+      "sitemaps": [],
+      "crawl_allowed": true,
+      "robots_txt": "User-agent: *\nAllow: /"
+    },
+    {
+      "domain": "www.greatercambridgewaste.org",
+      "robots_url": "https://www.greatercambridgewaste.org/robots.txt",
+      "http_status": 404,
+      "seed_results": {
+        "/": true,
+        "/residents/what-goes-in-which-bin": true
+      },
+      "crawl_delay_from_robots": null,
+      "sitemaps": [],
+      "crawl_allowed": true,
+      "robots_txt": ""
+    }
+  ],
+  "effective_delay": 2.0,
+  "crawl_allowed": true
+}

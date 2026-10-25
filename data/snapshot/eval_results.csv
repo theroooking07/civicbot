@@ -1,0 +1,31 @@
+id,topic,question,hit_rank,recall@1,recall@3,recall@5,rr,confidence,answered,top3
+1,council_tax,How much council tax do I pay for a Band D home in Cambridge?,1.0,True,True,True,1.0,0.749,True,council-tax-bands-and-charges | what-your-council-tax-pays-for | your-council-tax-bill-explained
+2,council_tax,"I live on my own, can I get a discount on my council tax?",1.0,True,True,True,1.0,0.741,True,council-tax-discounts-for-people-who-live-alone-or-with-disregarded-people | contact-us | your-council-tax-bill-explained
+3,council_tax,What ways can I pay my council tax?,1.0,True,True,True,1.0,0.774,True,paying-your-council-tax | contact-us | council-tax
+4,council_tax,What happens if I miss a council tax payment and get a reminder?,1.0,True,True,True,1.0,0.766,True,council-tax-reminders-and-recovery-action | council-tax-payment-plans-following-a-court-summons | contact-us
+5,council_tax,Do I have to pay council tax on an empty property or a second home?,1.0,True,True,True,1.0,0.748,True,council-tax-for-empty-and-second-homes | who-pays-council-tax | council-tax-exemptions
+6,council_tax,"I am on a low income, can I get help paying council tax?",1.0,True,True,True,1.0,0.674,True,discretionary-council-tax-reduction | council-tax-reduction | information-for-guests-from-ukraine
+7,council_tax,Are students exempt from council tax?,3.0,False,True,True,0.3333333333333333,0.596,True,who-pays-council-tax | freemen-on-the-land-and-council-tax | council-tax-exemptions
+8,waste,Which bin do I put plastic food trays in?,1.0,True,True,True,1.0,0.6,True,residents/what-goes-in-which-bin | commercial/what-goes-in-which-bin | what-are-your-bins-for
+9,waste,What time do I need to put my bins out on collection day?,1.0,True,True,True,1.0,0.622,True,what-are-your-bins-for | manage-your-bin-collections/additional-green-bins-and-permits | news/changes-to-bin-collections-this-christmas
+10,waste,How do I find out which day my bins are collected?,,False,False,False,0.0,0.619,True,litter-and-issues-with-litter-bins | manage-your-bin-collections | what-are-your-bins-for
+11,waste,Can I get an extra green bin for garden waste and how much does it cost?,1.0,True,True,True,1.0,0.734,True,manage-your-bin-collections/additional-green-bins-and-permits | food-waste/composting | residents/what-goes-in-which-bin
+12,waste,When will the weekly food waste collection start and what is a caddy?,2.0,False,True,True,0.5,0.714,True,residents/what-goes-in-which-bin | food-waste/weekly-food-waste-collections | foodwaste
+13,waste,Are bin collections different over Christmas?,1.0,True,True,True,1.0,0.642,True,news/changes-to-bin-collections-this-christmas | commercial/what-goes-in-which-bin | residents/what-goes-in-which-bin
+14,waste,"I can't move my bin because of a disability, can someone help?",1.0,True,True,True,1.0,0.686,True,get-help-putting-your-bin-out | manage-your-bin-collections/keeping-your-bins-clean | information-for-guests-from-ukraine
+15,waste,Where can I recycle old electrical items like a kettle?,1.0,True,True,True,1.0,0.702,True,recycling/recycling-or-reusing-your-old-electricals | residents/what-goes-in-which-bin | recycling/find-a-recycling-point
+16,waste,How should a business arrange its commercial waste collection?,1.0,True,True,True,1.0,0.74,True,commercial | commercial/your-business-waste-responsibilities/manage-your-business-waste | order-commercial-waste-sacks
+17,taxi_licensing,How do I apply for a new taxi driver licence?,,False,False,False,0.0,0.682,True,taxi-drivers-licence-renewals | new-non-driver-taxi-proprietors-licences | replacement-taxi-driver-licences-and-badges
+18,taxi_licensing,What are the fees for taxi licences?,,False,False,False,0.0,0.655,True,temporary-taxi-vehicle-licences | new-taxi-vehicle-licences | new-taxi-drivers-licences
+19,taxi_licensing,Does a taxi driver need a medical certificate?,1.0,True,True,True,1.0,0.747,True,taxi-drivers-medical-certificate | new-taxi-drivers-licences | new-non-driver-taxi-proprietors-licences
+20,taxi_licensing,How do I complain about a taxi driver?,1.0,True,True,True,1.0,0.656,True,complaints-about-taxi-vehicles-or-drivers | new-taxi-drivers-licences | taxi-safeguarding-and-disability-awareness-training
+21,licensing,How much does an alcohol premises licence cost?,2.0,False,True,True,0.5,0.625,True,alcohol-and-entertainment-licence-guidance | alcohol-and-entertainment-licence-fees | gaming-permits-for-alcohol-licensed-premises
+22,licensing,Do I need a licence to put tables and chairs outside my cafe?,1.0,True,True,True,1.0,0.641,True,pavement-licences | operating-schedule | market-trading-licences
+23,licensing,How do I get a licence to run a market stall?,1.0,True,True,True,1.0,0.615,True,market-trading-licences | saturday-stall-permits-for-charities | access-licences
+24,licensing,Does a charity need permission to collect money on the street?,1.0,True,True,True,1.0,0.54,True,street-collection-licences | house-to-house-collection-licence-for-charities | saturday-stall-permits-for-charities
+25,licensing,Do I need a licence for a dog grooming or pet business?,1.0,True,True,True,1.0,0.602,True,animal-licences | scrap-metal-dealers-licence | primate-licences
+26,housing,Where can a homeless single person get help in Cambridge?,1.0,True,True,True,1.0,0.743,True,services-for-rough-sleepers-and-single-homeless-people | the-single-homelessness-service | visiting-support-service
+27,housing,How do I get repairs done on my leasehold flat?,1.0,True,True,True,1.0,0.582,True,repairs-and-maintenance-for-your-leasehold-property | buying-a-leasehold-property | subletting-your-leasehold-property
+28,bereavement,How much does a burial or cremation cost?,2.0,False,True,True,0.5,0.629,True,arranging-a-funeral-service | bereavement-fees-and-charges | waste-collection-at-events
+29,parking_transport,How do I get a residents parking permit?,1.0,True,True,True,1.0,0.658,True,parking-permits-for-residents | car-parks-privacy-notice | saturday-stall-permits-for-charities
+30,contact,What is the council's phone number and when are the phone lines open?,1.0,True,True,True,1.0,0.655,True,contact-us | how-we-take-card-payments-is-changing | contact-us
