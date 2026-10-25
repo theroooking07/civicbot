@@ -285,6 +285,10 @@ def ask(question: str) -> dict:
 def main():
     if len(sys.argv) < 2:
         sys.exit('Usage: python -m chat.ask "your question"')
+    # Fresh clone: no live index yet (data/outputs is git-ignored), so use the demo snapshot.
+    if not (INDEX_DIR / "faiss.index").exists() and (config.SNAPSHOT / "index" / "faiss.index").exists():
+        print("[ask] no live index - using the demo snapshot in data/snapshot/\n")
+        use_data(config.SNAPSHOT / "index", config.SNAPSHOT / "entities.csv")
     res = ask(" ".join(sys.argv[1:]))
     print(f"[mode: {res['mode']} | confidence {res['confidence']}]\n")
     if res.get("entities") is not None and not res["entities"].empty:
