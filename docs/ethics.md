@@ -108,11 +108,18 @@ implemented. Nothing is redistributed; the app links to the originals.
 
 ## 7. Sharing the repository
 
-`data/snapshot/` contains the cleaned text of the 300 crawled pages so that the demo
-runs offline. That text is Cambridge City Council and Greater Cambridge Shared
-Waste copyright. **Keep the repository private** (for coursework submission and
-demo only), or remove `data/snapshot/pages_clean.jsonl`, `raw_text.jsonl` and
-`index/chunks.jsonl` before making it public.
+This repository is **public**. `data/snapshot/` contains the cleaned text of the 300
+crawled pages (`pages_clean.jsonl`, `raw_text.jsonl`, `index/chunks.jsonl`) so that
+the demo runs offline. That text is Cambridge City Council and Greater Cambridge
+Shared Waste copyright. It is included only for this non-commercial university
+project, with attribution and links to every original page. Raw HTML is not included.
+
+The council's terms allow copies for personal reference only, so publishing this text
+goes beyond what they explicitly permit. **If either rights holder asks, the text files
+will be removed** (including from the git history); the code, charts and reports do
+not depend on them, and the pipeline can rebuild them locally with
+`python -m crawler.run_crawl`. Anyone reusing this repository should not
+redistribute the snapshot text.
 
 ## 8. Accuracy and limits of the chatbot
 
